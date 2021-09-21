@@ -1,2 +1,2 @@
-# rock-pape-scissors
+# rock-paper-scissors
 Using Javascript
